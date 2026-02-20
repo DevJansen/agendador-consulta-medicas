@@ -1,10 +1,8 @@
 package com.devjansen.AgendadorDeConsulta.service;
 
-import com.devjansen.AgendadorDeConsulta.endereco.Endereco;
 import com.devjansen.AgendadorDeConsulta.medico.DadosCadastroMedico;
 import com.devjansen.AgendadorDeConsulta.medico.Medico;
 import com.devjansen.AgendadorDeConsulta.medico.MedicoRepository;
-import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
